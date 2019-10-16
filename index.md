@@ -3,5 +3,8 @@ secret recipes by mum
 
 
 -Rajama
+[preparation](./Rajma/preparation.md)
 -chole
--khihi
+-khichdi
+=======
+
